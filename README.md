@@ -3,7 +3,7 @@
 I am a full stack developer! but you can call me doubleprince
 <a href="https://app.daily.dev/doubleprince"><img src="https://api.daily.dev/devcards/31fc8cfa47714afea8b0344846ab4cb4.png?r=6py" width="400" alt="Adenekan Martin's Dev Card"/></a>
 
-🔭 I'm currently working on https://communitylawyers.net as a web developer
+🔭 I developed communitylawyers.net, lawcourtservices.net, dlawnet.net, tenterprisemall.net yellomart.net golftogether.net amongs other sites.
 
 ✅ Skills
 - Backend: PHP, Laravel (certified), LiveWire,  Node.js
