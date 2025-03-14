@@ -21,7 +21,7 @@ PWA, SPA, Web sockets
 - Betting Apps
 - School Projects
 
-💬 Ask me about Laravel, PHP, Vue, JavaScript, Angular
+💬 Ask me about Laravel, PHP, React, Vue, JavaScript, Angular
 
 📫 Contact Me on adenekanmartin@gmail.com
 
