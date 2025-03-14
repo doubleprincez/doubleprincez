@@ -15,7 +15,7 @@ PWA, SPA, Web sockets
 - Panel: cPanel
 - CMS: Voyager, Wordpress, Prestashop
 
-✅ Experiences (4 years)
+✅ Experiences (8+ years)
 - E-commerce
 - Online chat apps
 - Betting Apps
