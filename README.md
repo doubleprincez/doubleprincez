@@ -7,9 +7,9 @@ I am a full stack developer! but you can call me doubleprince
 
 ✅ Skills
 - Backend: PHP, Laravel (certified), LiveWire,  Node.js
-- Frontend: Bootstrap 4&5, Vue.js, Angular, Tailwind, Inertia
-PWA, SPA, Web sockets
-- Unit testing, Continuous integration, Git, Monitoring
+- Frontend: Bootstrap 4&5, Vue.js,Tailwind, Inertia, React, Nextjs
+ - PWA, SPA, Web sockets
+- Unit testing, Continuous integration, Git, BitBucket, Monitoring, Jira Development Environment
 - API: Payment (Stripe,Paystack, Gpay, Paypal), Sports, Mailing & Texting, Social networks
 - Data: MySQL, Redis, Mongodb
 - Panel: cPanel
@@ -21,7 +21,7 @@ PWA, SPA, Web sockets
 - Betting Apps
 - School Projects
 
-💬 Ask me about Laravel, PHP, React, Vue, JavaScript, Angular
+💬 Ask me about Laravel, PHP, React, Vue, JavaScript, Livewire, Volt
 
 📫 Contact Me on adenekanmartin@gmail.com
 
