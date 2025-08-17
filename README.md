@@ -28,14 +28,14 @@ I am a full stack developer! but you can call me doubleprince
 🌱 I’m currently learning Django
 Note: Due to confidentiality and nondisclosure agreements, most of my jobs are private.
 
-https://thetuskandbead.gstplace.com -> built on site builder  (integrated paystack and flutterwave) (hybrid)
-https://gstplace.com -> backend engineer, admin backend and API service for the react frontend and integration (hybrid)
-https://rentnow.ng -> backend API system and Integration (with responsiveness) (remote)
-https://communitylawyers.net -> built the full stack version in full laravel (2021 - 24) (onsite)
-https://dlawnet.net -> built the full stack in laravel (2021 - 23) (onsite)
-https://tenterprisemall.net -> built the full page from ground up in laravel and livewire blade (onsite)
-https://golftogether.net -> built the full stack in laravel backend and react frontend (2023) (onsite)
-https://stdvps.com -> backend developer (remote)
+- https://thetuskandbead.gstplace.com -> built on site builder  (integrated paystack and flutterwave) (hybrid) 
+- https://gstplace.com -> backend engineer, admin backend and API service for the react frontend and integration (hybrid)
+- https://rentnow.ng -> backend API system and Integration (with responsiveness) (remote)
+- https://communitylawyers.net -> built the full stack version in full laravel (2021 - 24) (onsite)
+- https://dlawnet.net -> built the full stack in laravel (2021 - 23) (onsite)
+- https://tenterprisemall.net -> built the full page from ground up in laravel and livewire blade (onsite)
+- https://golftogether.net -> built the full stack in laravel backend and react frontend (2023) (onsite)
+- https://stdvps.com -> backend developer (remote)
 
 
 
