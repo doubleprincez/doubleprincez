@@ -26,6 +26,7 @@ I am a full stack developer! but you can call me doubleprince
 📫 Contact Me on adenekanmartin@gmail.com
 
 🌱 I’m currently learning Django
+Note: Due to confidentiality and nondisclosure agreements, most of my jobs are private.
 
 https://thetuskandbead.gstplace.com -> built on site builder  (integrated paystack and flutterwave) (hybrid)
 https://gstplace.com -> backend engineer, admin backend and API service for the react frontend and integration (hybrid)
